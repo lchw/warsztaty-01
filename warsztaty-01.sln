@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorytmy", "Algorytmy", "{3CFB086C-4149-4350-AA92-D984D07661B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorytmika", "Algorytmika", "{073F499C-0A29-418B-813C-F98D557D7DD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgramUzytkowy", "ProgramUzytkowy", "{83D1B22C-F67C-4AAB-9344-1AFF6D64BEF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KULNET", "KULNET", "{18FAD3EE-13E7-4BE6-B719-1DEB56C7A811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WartoscBezwzgledna", "KULNET\Algorytmy\WartoscBezwzgledna\WartoscBezwzgledna.csproj", "{4BF2F074-BAD5-48FE-B1E5-6D0DA1856283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testy", "KULNET\Testy\Testy.csproj", "{0F4B6EE4-5DE6-4ED0-8FD7-81C6EBAA0FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF2F074-BAD5-48FE-B1E5-6D0DA1856283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF2F074-BAD5-48FE-B1E5-6D0DA1856283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF2F074-BAD5-48FE-B1E5-6D0DA1856283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF2F074-BAD5-48FE-B1E5-6D0DA1856283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4B6EE4-5DE6-4ED0-8FD7-81C6EBAA0FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4B6EE4-5DE6-4ED0-8FD7-81C6EBAA0FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4B6EE4-5DE6-4ED0-8FD7-81C6EBAA0FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4B6EE4-5DE6-4ED0-8FD7-81C6EBAA0FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3CFB086C-4149-4350-AA92-D984D07661B4} = {18FAD3EE-13E7-4BE6-B719-1DEB56C7A811}
+		{073F499C-0A29-418B-813C-F98D557D7DD0} = {18FAD3EE-13E7-4BE6-B719-1DEB56C7A811}
+		{83D1B22C-F67C-4AAB-9344-1AFF6D64BEF3} = {18FAD3EE-13E7-4BE6-B719-1DEB56C7A811}
+		{4BF2F074-BAD5-48FE-B1E5-6D0DA1856283} = {3CFB086C-4149-4350-AA92-D984D07661B4}
+		{0F4B6EE4-5DE6-4ED0-8FD7-81C6EBAA0FD0} = {18FAD3EE-13E7-4BE6-B719-1DEB56C7A811}
+	EndGlobalSection
+EndGlobal
